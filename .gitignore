@@ -1,0 +1,4 @@
+cpp_core/prime_runner
+results/
+__pycache__/
+*.pyc
